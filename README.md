@@ -1,2 +1,2 @@
-# ChatBotLangGraph
-This project serves as a practical exercise, created by following an official LangGraph tutorial. It was undertaken with the objective of gaining hands-on experience and a foundational understanding of the framework's key principles. By completing this project, I aimed to enhance my proficiency with tools and frameworks essential for developing applications with Large Language Models (LLMs).
+# Pythia Ai
+This project is an intelligent search and answer platform inspired by the innovative concept of Perplexity. By combining advanced artificial intelligence with real-time web research, it transforms complex questions into clear, referenced, and contextually relevant answers.
